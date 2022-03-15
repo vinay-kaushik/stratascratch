@@ -1,6 +1,5 @@
-
---https://platform.stratascratch.com/coding/10183-total-cost-of-orders?python=
-
+--TITLE: Total Cost Of Orders
+--LINK: https://platform.stratascratch.com/coding/10183-total-cost-of-orders?python=
 
 /*
 Total Cost Of Orders

@@ -1,5 +1,5 @@
-
---https://platform.stratascratch.com/coding/9627-3-bed-minimum?python=
+--TITLE: 3 Bed Minimum
+--LINK: https://platform.stratascratch.com/coding/9627-3-bed-minimum?python=
 
 /*
 3 Bed Minimum

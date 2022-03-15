@@ -1,6 +1,6 @@
+--TITLE: Employees With Bonuses
+--LINK: https://platform.stratascratch.com/coding/9903-employees-with-bonuses?python=
 
---https://platform.stratascratch.com/coding/9903-employees-with-bonuses?python=
---Easy
 
 /*
 Employees With Bonuses

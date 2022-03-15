@@ -1,3 +1,6 @@
+--TITLE: Customer Details
+--LINK: https://platform.stratascratch.com/coding/9891-customer-details?python=
+
 select 
     c.first_name,
     c.last_name,

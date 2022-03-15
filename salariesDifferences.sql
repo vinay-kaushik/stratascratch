@@ -1,3 +1,9 @@
+--TITLE: Salaries Differences
+--LINK: https://platform.stratascratch.com/coding/10308-salaries-differences?python=
+
+
+
+
 with mkt as (select max(de.salary) as sal1 from db_employee de,db_dept dd
     where de.department_id=dd.id 
     and dd.department='marketing')

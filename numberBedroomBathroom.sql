@@ -1,4 +1,5 @@
--- https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?python=
+--TITLE: Number of bathrooms and bedrooms
+--LINK: https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?python=
 
 /*
 Find the average number of bathrooms and bedrooms for each city’s property types.

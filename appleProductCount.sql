@@ -1,5 +1,5 @@
-
---https://platform.stratascratch.com/coding/10141-apple-product-counts?python=
+--TITLE: Apple Product Counts
+--LINK: https://platform.stratascratch.com/coding/10141-apple-product-counts?python=
 
 
 /*
