@@ -17,7 +17,10 @@
 |15|[Find all posts which were reacted to with a heart](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?python=)|[MySQL](./postsReactWithHeart.sql)|Easy|
 |16|[Salaries Differences](https://platform.stratascratch.com/coding/10308-salaries-differences?python=)|[MySQL](./salariesDifferences.sql)|Easy|
 |17|[Sales Dept Salaries](https://platform.stratascratch.com/coding/9920-sales-dept-salaries?python=)|[MySQL](./salesDeptSalaries.sql)|Easy|
-|18|[3 Bed Minimum](https://platform.stratascratch.com/coding/9627-3-bed-minimum?python=)|[MySQL](./threeBedMinimum.sql)|Easy|
-|19|[Total AdWords Earnings](https://platform.stratascratch.com/coding/10164-total-adwords-earnings?python=)|[MySQL](./totalAdwords.sql)|Easy|
-|20|[Total Cost Of Orders](https://platform.stratascratch.com/coding/10183-total-cost-of-orders?python=)|[MySQL](./totalCostOrders.sql)|Easy|
-|21|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?python=)|[MySQL](./workerWithHighestSalary.sql)|Easy|
+|18|[Start Dates Of Top Drivers](https://platform.stratascratch.com/coding/10083-start-dates-of-top-drivers?python=)|[MySQL](./startDateOfTopDrivers.sql)|Easy|
+|19|[3 Bed Minimum](https://platform.stratascratch.com/coding/9627-3-bed-minimum?python=)|[MySQL](./threeBedMinimum.sql)|Easy|
+|20|[Find the top 5 cities with the most 5 star businesses](https://platform.stratascratch.com/coding/10148-find-the-top-10-cities-with-the-most-5-star-businesses?python=)|[MySQL](./topFiveCitiesWithTopFiveBusiness.sql)|Easy|
+|21|[Top 3 US Sectors](https://platform.stratascratch.com/coding/9802-top-3-us-sectors?python=)|[MySQL](./topThreeUSSectors.sql)|Easy|
+|22|[Total AdWords Earnings](https://platform.stratascratch.com/coding/10164-total-adwords-earnings?python=)|[MySQL](./totalAdwords.sql)|Easy|
+|23|[Total Cost Of Orders](https://platform.stratascratch.com/coding/10183-total-cost-of-orders?python=)|[MySQL](./totalCostOrders.sql)|Easy|
+|24|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?python=)|[MySQL](./workerWithHighestSalary.sql)|Easy|
