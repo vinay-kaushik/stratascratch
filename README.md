@@ -50,5 +50,6 @@
 |48|[Find the total number of approved friendship requests in January and February](https://platform.stratascratch.com/coding/9789-find-the-total-number-of-approved-friendship-requests-in-january-and-february?python=)|[MySQL](./totalApprovedFriendRequest.sql)|Easy|
 |49|[Total Cost Of Orders](https://platform.stratascratch.com/coding/10183-total-cost-of-orders?python=)|[MySQL](./totalCostOrders.sql)|Easy|
 |50|[Unique Salaries](https://platform.stratascratch.com/coding/9898-unique-salaries?python=)|[MySQL](./uniqueSalaries.sql)|Easy|
-|51|[Winter Olympics Events List By Height](https://platform.stratascratch.com/coding/9943-winter-olympics-events-list-by-height?python=)|[MySQL](./winterOlympicsEvents.sql)|Easy|
-|52|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?python=)|[MySQL](./workerWithHighestSalary.sql)|Easy|
+|51|[Find all wineries which produce wines by possessing aromas of plum, cherry, rose, or hazelnut](https://platform.stratascratch.com/coding/10026-find-all-wineries-which-produce-wines-by-possessing-aromas-of-plum-cherry-rose-or-hazelnut?python=)|[MySQL](./wineryWhichProdueWine.sql)|Easy|
+|52|[Winter Olympics Events List By Height](https://platform.stratascratch.com/coding/9943-winter-olympics-events-list-by-height?python=)|[MySQL](./winterOlympicsEvents.sql)|Easy|
+|53|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?python=)|[MySQL](./workerWithHighestSalary.sql)|Easy|
