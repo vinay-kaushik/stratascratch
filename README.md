@@ -51,6 +51,7 @@
 |49|[Find the total number of approved friendship requests in January and February](https://platform.stratascratch.com/coding/9789-find-the-total-number-of-approved-friendship-requests-in-january-and-february?python=)|[MySQL](./totalApprovedFriendRequest.sql)|Easy|
 |50|[Total Cost Of Orders](https://platform.stratascratch.com/coding/10183-total-cost-of-orders?python=)|[MySQL](./totalCostOrders.sql)|Easy|
 |51|[Unique Salaries](https://platform.stratascratch.com/coding/9898-unique-salaries?python=)|[MySQL](./uniqueSalaries.sql)|Easy|
-|52|[Find all wineries which produce wines by possessing aromas of plum, cherry, rose, or hazelnut](https://platform.stratascratch.com/coding/10026-find-all-wineries-which-produce-wines-by-possessing-aromas-of-plum-cherry-rose-or-hazelnut?python=)|[MySQL](./wineryWhichProdueWine.sql)|Easy|
-|53|[Winter Olympics Events List By Height](https://platform.stratascratch.com/coding/9943-winter-olympics-events-list-by-height?python=)|[MySQL](./winterOlympicsEvents.sql)|Easy|
-|54|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?python=)|[MySQL](./workerWithHighestSalary.sql)|Easy|
+|52|[Users with Many Searches](https://platform.stratascratch.com/coding/2061-users-with-many-searches?code_type=1)|[MySQL](./usersWithManySearches.sql)|Easy|
+|53|[Find all wineries which produce wines by possessing aromas of plum, cherry, rose, or hazelnut](https://platform.stratascratch.com/coding/10026-find-all-wineries-which-produce-wines-by-possessing-aromas-of-plum-cherry-rose-or-hazelnut?python=)|[MySQL](./wineryWhichProdueWine.sql)|Easy|
+|54|[Winter Olympics Events List By Height](https://platform.stratascratch.com/coding/9943-winter-olympics-events-list-by-height?python=)|[MySQL](./winterOlympicsEvents.sql)|Easy|
+|55|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?python=)|[MySQL](./workerWithHighestSalary.sql)|Easy|
